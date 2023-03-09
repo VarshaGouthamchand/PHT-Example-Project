@@ -1,0 +1,35 @@
+2021-11-17 17:14:30 INFO  MainApp:85 - Start extracting ontology: 1637165670629
+2021-11-17 17:15:45 INFO  MainApp:85 - Start extracting ontology: 1637165745405
+2021-11-17 17:19:55 INFO  MainApp:85 - Start extracting ontology: 1637165995162
+2021-11-17 17:19:55 ERROR DatabaseInspector:38 - Could not connect to the database. Is there an active connection to the database? Are the credentials correct?
+2021-11-17 17:19:55 ERROR DatabaseInspector:39 - JDBC URL used: jdbc:relique:csv:C:/Users/P70070487/Documents/Maastro/Triplifier_Project/DataSets/Houston.csv
+2021-11-17 17:20:51 INFO  MainApp:85 - Start extracting ontology: 1637166051213
+2021-11-17 17:20:51 ERROR DatabaseInspector:38 - Could not connect to the database. Is there an active connection to the database? Are the credentials correct?
+2021-11-17 17:20:51 ERROR DatabaseInspector:39 - JDBC URL used: jdbc:relique:csv:C:UsersP70070487DocumentsMaastroTriplifier_ProjectDataSetsHouston.csv
+2021-11-17 17:22:12 INFO  MainApp:85 - Start extracting ontology: 1637166132070
+2021-11-17 17:22:12 ERROR DatabaseInspector:38 - Could not connect to the database. Is there an active connection to the database? Are the credentials correct?
+2021-11-17 17:22:12 ERROR DatabaseInspector:39 - JDBC URL used: jdbc:relique:csv:C:\Users\P70070487\Documents\Maastro\Triplifier_Project\DataSets\Houston.csv
+2021-11-17 17:32:56 INFO  MainApp:85 - Start extracting ontology: 1637166776208
+2021-11-17 17:32:56 INFO  MainApp:125 - Table name: {schema=null, catalog=null, name=Houston}
+2021-11-17 17:33:01 INFO  MainApp:88 - Done extracting ontology: 1637166781202
+2021-11-17 17:33:01 INFO  MainApp:89 - Ontology exported to ontology.owl
+2021-11-17 17:33:01 INFO  MainApp:93 - Start extracting data: 1637166781205
+2021-11-17 17:33:01 INFO  DataFactory:112 - Start processing table Houston
+2021-11-17 17:42:22 INFO  MainApp:100 - Done: 1637167342643
+2021-11-18 13:29:11 INFO  RdfFactory:135 - Could not connect to repository, waiting 10 seconds for a new attempt (1 of 10)
+2021-11-18 13:29:52 INFO  MainApp:85 - Start extracting ontology: 1637238592379
+2021-11-18 13:29:52 INFO  MainApp:125 - Table name: {schema=null, catalog=null, name=Houston}
+2021-11-18 13:29:55 INFO  MainApp:88 - Done extracting ontology: 1637238595526
+2021-11-18 13:29:55 INFO  MainApp:89 - Ontology exported to ontology.owl
+2021-11-18 13:29:55 INFO  MainApp:93 - Start extracting data: 1637238595527
+2021-11-18 13:29:55 INFO  DataFactory:112 - Start processing table Houston
+2021-11-18 13:36:10 INFO  MainApp:100 - Done: 1637238970595
+2021-11-18 17:04:32 INFO  RdfFactory:135 - Could not connect to repository, waiting 10 seconds for a new attempt (1 of 10)
+2021-11-22 16:35:39 INFO  MainApp:85 - Start extracting ontology: 1637598939818
+2021-11-22 16:35:39 INFO  MainApp:125 - Table name: {schema=null, catalog=null, name=Houston}
+2021-11-22 16:35:42 INFO  MainApp:125 - Table name: {schema=null, catalog=null, name=database}
+2021-11-22 16:35:45 INFO  MainApp:88 - Done extracting ontology: 1637598945914
+2021-11-22 16:35:45 INFO  MainApp:89 - Ontology exported to ontology.owl
+2021-11-22 16:35:45 INFO  MainApp:93 - Start extracting data: 1637598945915
+2021-11-22 16:35:45 INFO  DataFactory:112 - Start processing table Houston
+2021-11-22 16:36:18 INFO  DataFactory:112 - Start processing table database

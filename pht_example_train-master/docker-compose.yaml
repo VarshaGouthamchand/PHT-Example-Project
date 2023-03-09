@@ -1,0 +1,8 @@
+version: '3.9'
+
+services:
+  test:
+    build: ./
+    container_name: test 
+    image: varshagouthamchand/ppdli_sparql_test
+    hostname: data.local
